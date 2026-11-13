@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" fill="none">
+<g stroke="#965443" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round">
+<!-- A symbolic worktable; this is an editorial illustration, not an archaeological reconstruction. -->
+<path d="M61 170C211 135 907 130 1159 157c35 4 45 15 33 28-42 45-945 48-1137 17-28-4-29-21 6-32Z" fill="#faf1e6"/>
+<path d="M43 184c-15 40-29 103-26 157 1 24 22 16 33 18 18 3 20 21 36 16 12-4 21-4 36 2 15 7 29-11 43-8 16 3 24 18 40 12 22-9 30 11 49 2 22-11 34 12 55 1 19-10 31 7 48 1 26-10 34 12 57 2 20-9 36 7 58 1 22-7 35 9 55 0 20-9 30 8 51 0 21-8 34 9 55 0 20-8 38 9 58 1 28-10 38 10 63 0 24-9 40 10 64 1 22-9 38 10 63 0 25-11 42 10 67-2 20-9 39 10 61-2 18-9 37 13 53 3 20-11 28 9 44-4 19-16 32 0 49-7 16-7 31 10 40-8 18-32-10-122-21-166" fill="#fff4e5"/>
+<path d="M64 207c159 27 867 44 1118-20M111 244c-5 31 4 57-2 91m87-100c-1 28 10 76 1 106m88-104c-7 46-5 72 1 113m101-107c-5 38 7 75 1 112m102-108c2 32-9 68-1 109m110-108c-11 27 3 76-2 108m111-110c3 35-5 83-1 110m108-113c-9 42 5 77 2 108m98-111c-2 40 10 67 4 104m91-108c-3 37 13 67 4 105m74-115c-1 32 12 64 9 93" stroke-width=".65" opacity=".8"/>
+<path d="m136 376-13 26 28 1-9-25m410 9-10 22 31 0-13-22m461-9-11 25 29-1-10-25" fill="#fff4e5"/>
+<!-- Folded letter and its thread -->
+<path d="m91 147 76-19 56 19-72 26Z" fill="#ded8ca"/><path d="m91 147 4 26 57 18 72-23-1-21-72 26Z" fill="#f9eee2"/><path d="m99 148 49 9 66-9m-65 10 3 26m-18-28 40-14m-53 29 10 2m36-6 20-7" stroke-width="1.1"/><path d="M139 187c-20 17-50 1-60 20"/>
+<!-- A stone and two simple tools -->
+<path d="M293 153c-17-6-15-23-2-33 15-13 41-10 51 3 12 17-6 34-49 30Z" fill="#a8aaa0"/><path d="M291 133c9-10 25-14 38-7" stroke="#eee5d8"/><path d="m343 172 34-70 7 4-29 71Z" fill="#b18b6a"/><path d="m364 111 7-21 28 13-8 18Z" fill="#a6a69b"/><path d="m265 160-22 13 6 7 22-15Z" fill="#a6a69b"/>
+<!-- A pair of hands: a visual metaphor for care -->
+<path d="m450 160 21-26 31-9 21 6-2 9-24 2-5 10 25 8 19-3 13 6-19 13-31-1-24-6-14 6Z" fill="#ead6c3"/><path d="m542 173 16-15 22-5 19 7 31-3 6 9-30 6-14-1-14 9-23 7-14-4" fill="#ead6c3"/><path d="m499 142 19-1m-22 9 19 7m77 5-15 4m18 2-16 7" stroke-width=".9"/>
+<!-- Candle, not a representation of a historical object -->
+<path d="M729 178c-31 3-39 11-10 16 16 3 45 1 52-5 7-7-18-11-42-11Z" fill="#b3a679"/><path d="m737 178 2-57h9l2 57m-19-57h25l-8-8h-9Z" fill="#b3a679"/><path d="m739 111-2-51h13l-1 51Z" fill="#ede5ce"/><path d="M741 59c-8-10 5-16 4-24 9 11 4 21-1 24Z" fill="#b68c67"/><path d="m723 190 40-1m-23-67 6 1m-2-57v40" stroke-width=".8"/>
+<!-- Books and a loose note -->
+<path d="m899 159 54-9 70 19-56 13Z" fill="#c1c3ab"/><path d="m900 160 2 13 65 18 55-12 1-10-56 13Z" fill="#f1e5cf"/><path d="m910 141 60-11 63 18-65 14Z" fill="#b99870"/><path d="m911 143 1 13 57 17 62-16 2-9-65 14Z" fill="#f1e5cf"/><path d="m907 124 51-11 65 18-51 14Z" fill="#9b9d93"/><path d="m908 125 2 12 61 17 51-12 1-11-51 14Z" fill="#f6eddf"/><path d="m941 119 36 10-13 4-34-10Z" fill="#d6c4a8"/><path d="m1032 159 51-7 29 21-48 9Z" fill="#f9eee2"/><path d="m1053 164 25-4m-20 9 27-4m-17 9 19-3" stroke-width=".8"/>
+</g></svg>
